@@ -1,12 +1,12 @@
 import Lesson from './components/Lesson/Lesson'
+import NavBarDefault from './components/NavBar/NavBarDefault/NavBarDefault'
 
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <Lesson/>
-      </header>
+      <NavBarDefault/>
+      <Lesson/>
     </div>
   );
 }
