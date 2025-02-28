@@ -1,4 +1,13 @@
-.container {
+.menu {
     display: flex;
     justify-content: space-between;
-}    
+    align-items: center;
+
+    padding: 12px 75px;
+}
+
+.rightBar {
+    display: flex;
+
+    gap: 16px;
+}

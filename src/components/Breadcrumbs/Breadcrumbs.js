@@ -6,7 +6,8 @@ const Breadcrumbs = observer(() => {
 
 
 	return (
-		<div>
+		<div className={`container`}>
+			<p>ГУАП / </p>
 		</div>
 	)
 })

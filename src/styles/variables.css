@@ -1,0 +1,57 @@
+:root {
+
+    --border-radius: 8px;
+
+    /* Размеры  текстов desktop */
+    --desktop-h1-fz: 45px;
+    --desktop-h2-fz: 36px;
+    --desktop-h3-fz: 24px;
+    --desktop-h4-fz: 22px;
+    --desktop-link-fz: 20px;
+    --desktop-subtitle-fz: 18px;
+    --desktop-body-fz: 22px;
+    --desktop-caption-fz: 14px;
+    --desktop-small-fz: 12px;
+    
+    
+    /* Размеры  текстов mobile */
+    --mobile-h1-fz: 26px;
+    --mobile-h2-fz: 22px;
+    --mobile-h3-fz: 18px;
+    --mobile-link-fz: 16px;
+    --mobile-subtitle-fz: 16px;
+    --mobile-body-fz: 15px;
+    --mobile-caption-fz: 14px;
+    --mobile-small-fz: 12px;
+
+    /* цветовая палитра main */
+
+    --secondary-color: #E72B70;
+    --secondary-dark-color: #890F3C;
+    --primary-guap-color: #005AAA;
+    --primary-dark-color: #003666;
+    --news-shadow-color: #337BBB33;
+    --bg-light-color: #F0F6FB;
+    --bg-pubs-content-color: #F9F9F9;
+    --bg-block-solid-color: #F5F5F8;
+
+    /* цветовая палитра gradient */
+    
+    --bg-it-90-color: linear-gradient(90.8deg, #2E2783 0.69%, #00B7EC 99.31%);
+    --bg-block-light-color: linear-gradient(315.34deg, #DCF4FF 0.29%, #C5DEFF 99.71%);
+    --bg-block-dark-color: linear-gradient(135deg, #2E2783 14.87%, #27CAF8 100%);
+    --primary-180-color: linear-gradient(180deg, #005AAA 0%, #003666 100%);
+    --primary-secondary-180-color: linear-gradient(180deg, #E72B70 0%, #890F3C 100%);
+    --line-90-color:  linear-gradient(90deg, #005AAA 0%, #7F35B2 50%, #E40046 100%);
+
+    /* цвет текста */
+
+    --text-color: #222222;
+
+    /* Переменные для отступов */
+    --spacing-xs: 4px;
+    --spacing-sm: 8px;
+    --spacing-md: 16px;
+    --spacing-lg: 24px;
+  }
+  
